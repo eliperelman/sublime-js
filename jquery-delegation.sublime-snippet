@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\$( '${1:.}' ).on( '${2:click}', '$3', function ( e ) {
+	var el = \$( this );
+
+	$0
+});
+]]></content>
+	<tabTrigger>del</tabTrigger>
+	<scope>source.js</scope>
+	<description>jQuery 1.7 Delegation</description>
+</snippet>

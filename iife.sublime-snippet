@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+(function ( $2 ) {
+	$0
+})( $1 );
+]]></content>
+	<tabTrigger>iife</tabTrigger>
+	<scope>source.js</scope>
+	<description>IIFE</description>
+</snippet>
